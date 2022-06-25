@@ -20,10 +20,3 @@ rules:
 - apiGroups: [""]
   resources: ["namespaces"]
   verbs: ["get", "watch", "list"]
-# [END anthosconfig_hierarchical_format_config_cluster_role_namespace_reader]
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
